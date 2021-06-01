@@ -21,22 +21,16 @@ body {
   font-family: "Inter", sans-serif;
   font-size: 1rem;
   color: white;
-  min-height: 100vh;
-  min-width: 100vw;
-  background-color: var(--very-dark-blue);
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 
-/* main {
+main {
   min-height: 100vh;
   min-width: 100vw;
   background-color: var(--very-dark-blue);
   display: flex;
   justify-content: center;
   align-items: center;
-} */
+} 
 
 .card {
   max-width: 1110px;
@@ -48,7 +42,6 @@ body {
 }
 
 .card-content {
-  /* background-color: steelblue; */
   margin: 3.5rem;
   display: flex;
   flex-direction: column;
