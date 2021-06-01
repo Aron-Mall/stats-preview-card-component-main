@@ -39,7 +39,7 @@ body {
 } */
 
 .card {
-  max-width: 1440px;
+  max-width: 1110px;
   background-color: var(--dark-desaturated-blue);
   display: grid;
   grid-template-columns: repeat(2, 0.5fr);
@@ -57,12 +57,11 @@ body {
 
 .card-image {
   position: relative;
-  background-image: url('./images/image-header-desktop.jpg');
+  background-image: url("./images/image-header-desktop.jpg");
   background-size: cover;
   border-top-right-radius: 8px;
   border-bottom-right-radius: 8px;
 }
-
 
 .card-image .overlay {
   position: absolute;
@@ -155,9 +154,8 @@ body {
     margin-bottom: 3rem;
   }
 
-
   .card-image {
-    background-image: url('./images/image-header-mobile.jpg');
+    background-image: url("./images/image-header-mobile.jpg");
     background-size: cover;
     border-top-left-radius: 8px;
     border-top-right-radius: 8px;
