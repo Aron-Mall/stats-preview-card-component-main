@@ -21,9 +21,6 @@ body {
   font-family: "Inter", sans-serif;
   font-size: 1rem;
   color: white;
-}
-
-main {
   min-height: 100vh;
   min-width: 100vw;
   background-color: var(--very-dark-blue);
@@ -31,6 +28,15 @@ main {
   justify-content: center;
   align-items: center;
 }
+
+/* main {
+  min-height: 100vh;
+  min-width: 100vw;
+  background-color: var(--very-dark-blue);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
 
 .card {
   max-width: 1440px;
