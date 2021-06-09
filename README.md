@@ -37,7 +37,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Aron-Mall/stats-preview-card-component-main](https://github.com/Aron-Mall/stats-preview-card-component-main)
+- Solution URL: [https://www.frontendmentor.io/solutions/grid-and-flexbox-S3xb8sn0r](https://www.frontendmentor.io/solutions/grid-and-flexbox-S3xb8sn0r)
 - Live Site URL: [https://aron-mall.github.io/stats-preview-card-component-main/](https://aron-mall.github.io/stats-preview-card-component-main/)
 
 ## My process
