@@ -7,6 +7,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+  - [Screenshot mobile](#screenshot mobile)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -28,6 +29,9 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshot.png)
+
+### Screenshot mobile
+
 ![](./screenshot-mobile.png)
 
 
